@@ -1,0 +1,8 @@
+/Users/christianpace/Documents/Workspace/chainofresponsability/PCOR.NET/PCOR.NET/bin/Debug/netstandard2.0/PCOR.NET.deps.json
+/Users/christianpace/Documents/Workspace/chainofresponsability/PCOR.NET/PCOR.NET/bin/Debug/netstandard2.0/PCOR.NET.dll
+/Users/christianpace/Documents/Workspace/chainofresponsability/PCOR.NET/PCOR.NET/bin/Debug/netstandard2.0/PCOR.NET.pdb
+/Users/christianpace/Documents/Workspace/chainofresponsability/PCOR.NET/PCOR.NET/obj/Debug/netstandard2.0/PCOR.NET.csproj.CoreCompileInputs.cache
+/Users/christianpace/Documents/Workspace/chainofresponsability/PCOR.NET/PCOR.NET/obj/Debug/netstandard2.0/PCOR.NET.AssemblyInfoInputs.cache
+/Users/christianpace/Documents/Workspace/chainofresponsability/PCOR.NET/PCOR.NET/obj/Debug/netstandard2.0/PCOR.NET.AssemblyInfo.cs
+/Users/christianpace/Documents/Workspace/chainofresponsability/PCOR.NET/PCOR.NET/obj/Debug/netstandard2.0/PCOR.NET.dll
+/Users/christianpace/Documents/Workspace/chainofresponsability/PCOR.NET/PCOR.NET/obj/Debug/netstandard2.0/PCOR.NET.pdb
